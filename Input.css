@@ -1,0 +1,30 @@
+form{
+    margin-top: 200px;
+    margin-left: 500px;
+    margin-right: 500px;
+    background-color: rgb(163, 223, 247);
+    padding: 50px;
+    border-color: black;
+    border-radius: 10px black;
+}
+input{
+    background-color: whitesmoke;
+    border-radius: 10px black;
+}
+body{
+    background-color:thistle;
+}
+h3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+button{
+    background-color: rgb(133, 133, 224);
+    margin-left: 60px;
+    margin-top: 10px;
+    height: 25px;
+    border-radius: 5px;
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
